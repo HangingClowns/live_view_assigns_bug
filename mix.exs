@@ -39,7 +39,7 @@ defmodule LiveViewAssigns.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
-      {:phoenix_live_view, "~> 0.10.0"}
+      {:phoenix_live_view, "~> 0.11.1"}
     ]
   end
 end
